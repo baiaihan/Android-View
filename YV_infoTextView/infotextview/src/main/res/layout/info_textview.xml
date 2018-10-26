@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:padding="@dimen/size_5"
+        android:layout_centerVertical="true"
+        />
+
+    <TextView
+        android:id="@+id/tv_key"
+        style="@style/InfoTextStyle"
+        android:layout_toRightOf="@id/iv_icon"
+        android:layout_centerVertical="true"
+        android:paddingLeft="@dimen/size_5" />
+
+    <ImageView
+        android:id="@+id/iv_go"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/size_5"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/size_5"
+        android:src="@drawable/go_forward" />
+
+    <TextView
+        android:id="@+id/tv_value"
+        style="@style/InfoTextValueStyle"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/size_20"
+        android:layout_marginRight="@dimen/size_15"
+        android:layout_toLeftOf="@id/iv_go"
+        android:gravity="center_vertical|right" />
+
+    <View
+        android:id="@+id/bottom_view"
+        style="@style/HorDividerViewStyle"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

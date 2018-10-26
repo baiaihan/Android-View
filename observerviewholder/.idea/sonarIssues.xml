@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/acuraapisdk/src/main/java/com/yesway/acuraapisdk/HttpApis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/adapter/CarlifeAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/actmsg/ActDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/actmsg/presenter/MsgDetailPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/carlife/CarlifeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/home/HtmlActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/home/presenter/WepPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/mirror/DVRDownloadActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/mirror/DVRSplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/page/mirror/SplashDVRActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/java/com/yesway/acuramanager/utils/DvrUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/activity_real_download_dvr.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/activity_real_view_dvr.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../acura-mirror-android/AcuraManager/app/src/main/res/layout/dialog_web_image.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/observerviewholder/BaseHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/observerviewholder/MainApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/observerviewholder/MessageManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baijunyu/observerviewholder/MessageNumHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/message_num.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

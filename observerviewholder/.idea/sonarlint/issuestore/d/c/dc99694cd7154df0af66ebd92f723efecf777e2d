@@ -1,0 +1,7 @@
+
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(Õ¥ü›
+osquid:S1450"ZRemove the "mMainThread" field and declare it as a local variable in the relevant methods.(ýÒ¬Á
+Dsquid:S1068"/Remove this unused "mMainThread" private field.(ýÒ¬Á
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(ð—“Òüÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(ÚÙÛ¥øÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(¬½¤ìøÿÿÿÿ
